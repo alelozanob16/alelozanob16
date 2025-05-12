@@ -1,5 +1,5 @@
 <div align = center>
-<h1 align = center>Hello, I'm <a href= "[www.linkedin.com/in/alejandrolozanobernal>Alejandro](https://www.linkedin.com/in/alejandrolozanobernal/)">Alejandro</a></h1>
+<h1 align = center>Hello, I'm <a href= "https://www.linkedin.com/in/alejandrolozanobernal/">Alejandro</a></h1>
 </div>
 <img src = "Banner Alejandro.png">
 
