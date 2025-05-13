@@ -4,6 +4,6 @@
 <img src = "Banner Alejandro.png">
 
 ## About me
-- 🧠 Junior Data Scientis intereste in data-driven solutions and IA Agents
+- 🧠 Junior Data Scientis interested in data-driven solutions and IA Agents
 - 🧰 Background in web developing
 - 🚀 Always trying to learn and sharing new ideas
